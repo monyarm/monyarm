@@ -1,10 +1,4 @@
 <div align="center">
-<iframe
-  src="https://skyline3d.in/monyarm/embed?color=white&enableZoom=false"
-  width="100%"
-  height="100%"
-  frameborder="0"
-></iframe>
 
 [![Simeon's GitHub contributions](https://skyline3d.in/monyarm)]([https://github.com/monyarm](https://skyline3d.in/monyarm))
 
