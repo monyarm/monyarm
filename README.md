@@ -1,6 +1,10 @@
 <div align="center">
-
-[![Simeon's GitHub Streak](https://streak-stats.demolab.com?user=monyarm&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://skyline.github.com/monyarm/2023)
+<iframe
+  src="https://skyline3d.in/monyarm/embed?color=white&enableZoom=false"
+  width="100%"
+  height="100%"
+  frameborder="0"
+></iframe>
 
 <br />
 
