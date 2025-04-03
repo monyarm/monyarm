@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Simeon's GitHub contributions](https://skyline3d.in/monyarm)]([https://github.com/monyarm](https://skyline3d.in/monyarm))
+[![Simeon's GitHub contributions](https://www.skyline3d.in/monyarm/embed?color=white&enableZoom=false)](https://skyline3d.in/monyarm)
 
 <br />
 
